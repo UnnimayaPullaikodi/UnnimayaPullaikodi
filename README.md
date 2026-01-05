@@ -10,18 +10,22 @@
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-**Tools**  
+**Version Control: **  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 👩‍💻 About Me
 
+I’m a **Software Engineer and Associate Consultant** specializing in  
+**Dynamics 365 CE and the Power Platform**.
 
+I enjoy turning business requirements into **clean, scalable CRM solutions**,  
+building Power Apps, automating workflows with Power Automate, and extending D365  
+with custom code where needed.
 
+I also explore **AI and data-driven approaches** to enhance CRM insights —  
+always with a **business-first mindset**.
 
-- 👋 Hi, I’m @UnnimayaPullaikodi
-- 👀 I’m interested in Power Apps , AI
-- 🌱 I’m currently learning Artiificial Intelligence and Machine Learning
-  
+## 🌐 My Portfolio
 <!---
 UnnimayaPullaikodi/UnnimayaPullaikodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
