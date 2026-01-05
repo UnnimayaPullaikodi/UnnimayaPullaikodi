@@ -27,15 +27,9 @@
 
 ## 👩‍💻 About Me
 
-- I’m a **Software Engineer and Associate Consultant** specializing in  
-**Dynamics 365 CE and the Power Platform**.
-
-- I enjoy turning business requirements into **clean, scalable CRM solutions**,  
-building Power Apps, automating workflows with Power Automate, and extending D365  
-with custom code where needed.
-
-- I also explore **AI and data-driven approaches** to enhance CRM insights —  
-always with a **business-first mindset**.
+- I’m a **Software Engineer and Associate Consultant** specializing in **Dynamics 365 CE and the Power Platform**.
+- I enjoy turning business requirements into **clean, scalable CRM solutions**,building Power Apps, automating workflows with Power Automate, and extending D365 with custom code where needed.
+- I also explore **AI and data-driven approaches** to enhance CRM insights always with a **business-first mindset**.
 
 ## 🌐 My Portfolio
 <!---
