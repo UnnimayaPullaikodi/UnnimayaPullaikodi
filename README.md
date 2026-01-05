@@ -1,8 +1,13 @@
 
 ## 💻 Tech Stack
-Languages:![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 💻 Tech Stack
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-Frameworks / Platforms:![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0B5ED7?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Frameworks / Platforms**  
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0B5ED7?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
